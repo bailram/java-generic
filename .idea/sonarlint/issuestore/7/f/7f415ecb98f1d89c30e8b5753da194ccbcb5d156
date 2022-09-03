@@ -1,0 +1,13 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "realData".(‰ú…ýüÿÿÿÿ8„ú÷àÿ/
+O
+java:S1481"-Remove this unused "realData" local variable.(‰ú…ýüÿÿÿÿ8­¥÷àÿ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æñÌŸ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÎ×ß
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Áì…åþÿÿÿÿ
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(°¸¶‹

@@ -1,0 +1,55 @@
+
+V
+&src/pengenalangeneric/DataGeneric.java,8/a/8a4f1b52dfe5397a7291762c494d3cf316b4104b
+Y
+)src/pengenalangeneric/DataNonGeneric.java,e/3/e3de24bc343b007620e3bd016c98d054912b5eda
+_
+/src/pengenalangeneric/PengelananGenericApp.java,a/8/a8f93d34cd2de57dbcfa0aced10dbf26aafb2e5f
+Z
+*src/genericclass/MultipleGenericClass.java,1/0/10b14da6b036843101cd2ea9e409c836eaf1ab15
+W
+'src/genericmethod/GenericMethodApp.java,4/1/411af893cd8e8a4855a5080661040ef1a7daec3e
+S
+#src/genericmethod/ArrayHelpers.java,2/b/2b42094400f9274adb4f6a4111a0cde9b408d685
+E
+src/invariant/note.md,4/f/4f904e6919ee4d392ff8326cfe55adff8565ba32
+U
+%src/genericclass/GenericClassApp.java,2/3/2393789ac8eecd4239d1ba22748b8b9cb0c5c04a
+R
+"src/genericclass/GenericClass.java,9/6/965736a2b66785e8e5b4393b04d8178434a564de
+O
+src/invariant/InvariantApp.java,1/4/146d65b051a65c1fb14dfae7bb92c282bb855a53
+E
+src/covariant/note.md,b/f/bf1802b0c6b1add3554dbd762e1694f21173f3c4
+O
+src/covariant/CovariantApp.java,c/7/c75af6aefa4458ef006b85ec03caeb7b84e02bd3
+I
+src/contravariant/note.md,e/8/e80551e391327da6dd4796514a43d3898956a973
+W
+'src/contravariant/ContravariantApp.java,3/a/3ae784d1d84dfed886bf9933e2f3b1162763b265
+b
+2src/boundedtypeparameter/MultipleContraintApp.java,6/3/636831cc33290fadf68f03f3df6908e39e4ffe25
+[
++src/boundedtypeparameter/ConstraintApp.java,1/9/19ba6a9faa06c6e5852d9356cdead9e86c65fb76
+P
+ src/boundedtypeparameter/note.md,f/6/f6cb357a3e7a1cba290f79e8d03973a38e429bd7
+I
+src/invariant/MyData.java,f/7/f7c915ccf4cbd2705238853439f6d296484eeb3f
+M
+src/wildcard/WildCardApp.java,7/f/7f415ecb98f1d89c30e8b5753da194ccbcb5d156
+D
+src/wildcard/note.md,a/4/a42922be53a58e70408dc35c8e5fe1457b77a3e9
+S
+#src/TypeErasure/TypeErasureApp.java,e/0/e09dccf888efe0f58985e32de1ad77006c90be6d
+G
+src/TypeErasure/note.md,2/d/2dd82f864b125034f7ed262b39696a6bfd47cef4
+S
+#src/comparableinterface/Person.java,e/4/e481731bc120437b162727060b71e4dc83a08d19
+O
+src/comparableinterface/note.md,0/e/0efdbe9cf0cf920532e3b6f5e4ba0b9fed176c90
+b
+2src/comparableinterface/ComparableIntefaceApp.java,6/f/6f09aa99d0a808467e799c4c1de58f3af67c4431
+c
+3src/comparatorinferface/ComparatorInterfaceApp.java,5/8/581faff2dd013a189bbd32760ba130429a7a04dc
+O
+src/comparatorinferface/note.md,d/6/d642b7ecad37880e750cf00511ea0addc122a2ac

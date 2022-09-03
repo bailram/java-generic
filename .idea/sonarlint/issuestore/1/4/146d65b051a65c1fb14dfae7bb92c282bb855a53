@@ -1,0 +1,13 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "dataO2".(éüì×
+T
+java:S1854">Remove this useless assignment to local variable "dataObject".(şµà
+O
+java:S1854"9Remove this useless assignment to local variable "data1".(âğÊÔ
+@
+java:S1481"*Remove this unused "data1" local variable.(âğÊÔ
+E
+java:S1481"/Remove this unused "dataObject" local variable.(şµà
+A
+java:S1481"+Remove this unused "dataO2" local variable.(éüì×

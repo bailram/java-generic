@@ -1,0 +1,12 @@
+
+]
+java:S1854
+"BRemove this useless assignment to local variable "longNumberData".(¾Ò¸èüÿÿÿÿ
+[
+java:S1854	"ERemove this useless assignment to local variable "integerNumberData".(æý‘¡
+L
+java:S1481	"6Remove this unused "integerNumberData" local variable.(æý‘¡
+N
+java:S1481
+"3Remove this unused "longNumberData" local variable.(¾Ò¸èüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀëŒðøÿÿÿÿ

@@ -1,0 +1,8 @@
+
+\
+java:S1854
+"ARemove this useless assignment to local variable "dataCovariant".(¾ıĞúùÿÿÿÿ
+M
+java:S1481
+"2Remove this unused "dataCovariant" local variable.(¾ıĞúùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æñÌŸ

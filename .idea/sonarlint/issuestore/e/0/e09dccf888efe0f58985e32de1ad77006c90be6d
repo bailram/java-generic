@@ -1,0 +1,17 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(Þû­š
+E
+java:S3740"/Provide the parametrized type for this generic.(Þû­š
+V
+java:S1854"@Remove this useless assignment to local variable "stringMyData".(ù¨ƒé
+V
+java:S1854";Remove this useless assignment to local variable "integer".(¹¢¤Œùÿÿÿÿ
+D
+java:S1905
+")Remove this unnecessary cast to "MyData".(ÁôÀÎüÿÿÿÿ
+G
+java:S1481",Remove this unused "integer" local variable.(¹¢¤Œùÿÿÿÿ
+G
+java:S1481"1Remove this unused "stringMyData" local variable.(ù¨ƒé
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÚÙÍýÿÿÿÿ
